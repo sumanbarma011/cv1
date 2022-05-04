@@ -1,0 +1,122 @@
+/* tag selector */
+body{
+  text-align: center;
+}
+h1{
+  color: white;
+  font-family: Montserrat;
+    font-weight: bolder;
+    font-size: 3rem;
+    line-height: 1.5;
+}
+p{
+  font-family: sans-serif;
+  font-weight: bold;
+  font-size: 20px;
+}
+
+
+/*
+                                     class             */
+.logo1{
+  position:absolute;
+}
+.button-icon{
+  padding-top: 10% ;
+}
+.nav-link{
+  padding:0 2% 0 2%;
+}
+.quote{
+  padding-bottom: 5%;
+}
+.nav-link{
+  font-family: Montserrat;
+  font-weight: bold;
+}
+
+
+.down-bar{
+    background-color:#226566;
+}
+.main-navbar{
+     background-color:#4DE4E6;
+     padding:0;
+     margin-bottom:0;
+
+}
+.quote{
+  margin: 10% 0 0 0;
+  color:white;
+  line-height: 1.5;
+
+}
+.qoute1{
+  padding-bottom: 10%;
+}
+.main-box{
+  height:800px;
+  width: 50%;
+  text-align: center;
+}
+.dr{
+  padding-left: 30%;
+    height: 500px;
+}
+.service-box{
+  text-align:center;
+  padding:5%;
+}
+.icon-button{
+  margin-top: 10%;
+}
+.button-icon{
+  margin: 0 5%;
+}
+.icon{
+  color:#50F0F2;
+}
+.icon:hover{
+  color:#226566;
+}
+.testimonial{
+  color: white;
+  text-align: center;
+}
+.carousel-item{
+  padding:25% 0;
+}
+
+.enterprise{
+  background-color: #50F0F2;
+
+}
+/* id */
+#premium{
+  padding:7% 15%;
+  text-align: center;
+}
+#title{
+   background-color:#4DE4E6;
+   padding:0 10% 0 5%;
+   position: relative;
+}
+#services{
+  text-align: center;
+  padding:7% 15%;
+}
+#footer-up{
+  background-color: #50F0F2;
+  color:white;
+  text-align: center;
+}
+#footer-down{
+  text-align: center;
+}
+.footer-icon{
+  padding:2% 1%;
+}
+.nav-link{
+  font-family: sans-serif;
+  padding:0 2%;
+}
